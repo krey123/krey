@@ -1,3 +1,3 @@
 hello world
 赵队十万热干面
-Creating a new branch is quick
+Creating a new branch is quick AND simple
